@@ -1,6 +1,6 @@
 #!/bin/sh
-
 set -e
+echo 'zzzz'
 
 pnpm i --frozen-lockfile
 pnpm update:version
